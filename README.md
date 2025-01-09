@@ -1,4 +1,4 @@
-# Digital Protection Community Issue Tracker  
+# Digital Protection Community
 
 Welcome to the **Digital Protection Community** GitHub repository! This space is dedicated to tracking issues, suggestions, and enhancements for our initiative, which focuses on promoting digital safety, accessibility, and infrastructure improvements for underserved communities.  
 
